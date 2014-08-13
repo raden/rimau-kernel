@@ -10,7 +10,7 @@ export CROSS_COMPILE=/opt/old-linaro/arm-linux-gnueabi-linaro_4.7.4-2014.01/bin/
 
 export KBUILD_BUILD_USER=najmi
 export KBUILD_BUILD_HOST="ampang"
-export LOCALVERSION="-Rimau-AOSP-v1.1"
+export LOCALVERSION="-Rimau-AOSP-v1.2"
 
 #echo "Copy backup config..."
 #cp najmi-mako-config .config
